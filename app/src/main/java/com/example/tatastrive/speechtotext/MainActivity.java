@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
+    int vol=0;
 
     private final int REQ_CODE_SPEECH_INPUT = 23;
     Button Pbutton;
